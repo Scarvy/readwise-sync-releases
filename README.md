@@ -6,7 +6,8 @@ Public macOS downloads and the signed Sparkle update feed for Readwise Sync.
 - Downloads: https://github.com/Scarvy/readwise-sync-releases/releases
 - Update feed: https://scarvy.github.io/readwise-sync-releases/appcast.xml
 
-The feed will be available after the first signed release is published.
+Version 0.0.2 is the first release with automatic updates. Users on 0.0.1 must
+install it manually. Subsequent versions can update through the app.
 
 ## Publishing
 
